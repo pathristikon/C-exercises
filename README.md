@@ -1,7 +1,5 @@
 ### C++ Exercises
-The current repository contains different C++ exercises and intends to help students or proffesionals in learning C++.
-
-The exercises were written during my personal preparation for the faculty of Mathematics and Informatics. 
+The current repository contains different C++ exercises and intends to help students or proffesionals in learning C++. 
 
 ### Usage for Linux and Mac compilation
 If you use a linux system, follow these steps:
@@ -11,7 +9,3 @@ If you use a linux system, follow these steps:
 
 ### Usage for Windows compilation
 If you use Windows, open the file you want to compile in your prefered C++ editor. Most of the times, the editor has compilator also inside. 
-
-### Licence
-All the sources are free for public and their scope should be to help in the process of learning C++.
-  
